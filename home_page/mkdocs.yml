@@ -1,0 +1,13 @@
+site_name: SUSTech-OpenSource
+theme: flatly
+site_author: 南科大开源协会
+site_description: 南科大开源协会主页
+extra:
+  search:
+    language: 'en, jp'
+copyright: Copyright(c)2022-2022, 南科大开源协会
+nav:
+  - 首页: index.md
+  - 课程资讯: class_info/class2022.md
+  - 协会资讯: association_info/info2022.md
+  - 关于本站: about.md
